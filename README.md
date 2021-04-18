@@ -2,7 +2,7 @@
 
 I am a programmer and I have expertize listed in Python, Machine Learning, MySql, PostgresSql. I am passionate about technical content and other technology related stuff.
 
-I am working on Machine Learning projects and I love to share mycode and project on these profile.
+I could to share my code and exercise files right here.
 
 <!--
 **Parvez13/Parvez13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
