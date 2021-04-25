@@ -1,8 +1,5 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Parvez
 
-I am a programmer and I have expertize listed in Python, Machine Learning, MySql, PostgresSql. I am passionate about technical content and other technology related stuff.
-
-I could to share my code and exercise files right here.
 
 <!--
 **Parvez13/Parvez13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
