@@ -1,13 +1,15 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Parvez
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parvez13&show_icons=true&theme=dark)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvez13)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Parvez13/Parvez13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Machine Learning and Deep Learining
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
