@@ -13,7 +13,9 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/mohammad-sohail-parvez-0ba8521a0/
+- 📫 Reach me on LinkedIn: <a href="https://www.linkedin.com/in/mohammad-sohail-parvez-0ba8521a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16r05vqcsOW9VUW8ekd7FRlGyZZsFOA3M/view?usp=sharing]
 <img class="align" align="center" alt="GIF" src="https://github.com/Parvez13/Parvez13/blob/master/programming.gif?raw=true" width="500" height="320" />
