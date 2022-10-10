@@ -8,6 +8,9 @@
 <body>
      <h1 align='center'>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Sohail Parvez</h1>
 <p align="left"> 
+A dedicated and aspiring Data Scientist with an objective of working in an organization that provides opportunity to advance
+professional and personal development.
+
 
 - 🔭 I’m currently working on **PyTorch** projects
 
