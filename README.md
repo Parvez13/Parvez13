@@ -33,8 +33,7 @@ professional and personal development.
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/></a>
-
-
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
 </p>
 
 </body>
